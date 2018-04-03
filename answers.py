@@ -20,8 +20,14 @@ answers_homsky = {("skos.dot", "Q1_homsky"):                           810,
                   ("wine.dot", "Q2_homsky"):                           133,
                   ("pizza.dot", "Q1_homsky"):                          56195,
                   ("pizza.dot", "Q2_homsky"):                          1262,
-                  ("small1.dot", "small1"):                            4,
-                  ("small2.dot", "small2"):                            11
+                  ("small1.dot", "small1"):                            2,
+                  ("small2.dot", "small2"):                            1,
+                  ("small3.dot", "small3"):                            0,
+                  ("ab.dot", "ab"):                                    20,
+                  ("a-loop.dot", "a-loop"):                            16,
+                  ("epsilon.dot", "epsilon"):                          6,
+                  ("expressions.dot", "expressions"):                  2,
+                  ("wwr.dot", "wwr"):                                  3
                   }
 answers_automata = {("skos.dot", "Q1_automata"):                       810,
                   ("skos.dot", "Q2_automata"):                         1,
@@ -45,6 +51,12 @@ answers_automata = {("skos.dot", "Q1_automata"):                       810,
                   ("wine.dot", "Q2_automata"):                         133,
                   ("pizza.dot", "Q1_automata"):                        56195,
                   ("pizza.dot", "Q2_automata"):                        1262,
-                  ("small1.dot", "small1"):                            4,
-                  ("small2.dot", "small2"):                            11
+                  ("small1.dot", "small1"):                            2,
+                  ("small2.dot", "small2"):                            9,
+                  ("small3.dot", "small3"):                            2,
+                  ("ab.dot", "ab"):                                    20,
+                  ("a-loop.dot", "a-loop"):                            16,
+                  ("epsilon.dot", "epsilon"):                          6,
+                  ("expressions.dot", "expressions"):                  2,
+                  ("wwr.dot", "wwr"):                                  3
                   }

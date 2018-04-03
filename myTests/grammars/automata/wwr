@@ -9,7 +9,7 @@ rankdir = LR
 2 -> 3[label="2"]
 0 -> 4[label="5"]
 4 -> 5[label="S"]
-5 -> 3[label="2"]
-0 -> 3[label="5"]
+5 -> 3[label="5"]
 0 -> 3[label="2"]
+0 -> 3[label="5"]
 }

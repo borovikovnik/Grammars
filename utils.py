@@ -77,4 +77,4 @@ def get_grammar_automata(filename):
 
 
 def count_res(res):
-    return len(list(filter(lambda x: x[1] == 'S', res)))
+    return len(set(filter(lambda x: x[1] == 'S', res)))
